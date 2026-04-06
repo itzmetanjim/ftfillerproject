@@ -45,3 +45,4 @@ def evaluate(postfix):
 pf =to_postfix(input1)
 result = evaluate(pf)
 print(reset+"result: ",result)
+input()
